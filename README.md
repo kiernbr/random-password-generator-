@@ -4,9 +4,9 @@ all you need to do is install python and run the program, and a text file named 
 
 
 planned updates:
-user interface for a more stream line expirence
-proper password manager
-settings
+user interface for a more stream line expirence, 
+proper password manager, 
+settings, 
 and more...
 
 if you have any feedback or suggestions let me know so I can make this the best program ever
